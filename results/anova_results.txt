@@ -1,0 +1,5 @@
+One-Way ANOVA Results
+=====================
+F-statistic: 1180.1612
+p-value: 0.000000
+Significance level: 0.05
